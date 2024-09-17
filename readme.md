@@ -3,21 +3,35 @@
 #  `Backend:`
  <pre>
 • ASP.NET 6
+• Identiy 
+• Linq & Entity Framework
+• JWT Refresh Token
+• Error Handling
+
 </pre>
 
 #  `Database:`
  <pre>
-• ASP.NET 6
+•  Relational Database Management System 
+•  SQL server
+•  CRUD operations for all table
 </pre>
 
 #  `Secure Web:`
  <pre>
-• ASP.NET 6
+  • OWASP API Security
+  • Using HTTPS 
+  • Salt hash for password
+  • Hash id
+  • Decrypt JWT
+  • Rate Limiting
+  • Authentication & Authorization 
+  • Input Validation
 </pre>
 
 #  `Deployment:`
  <pre>
-deploy using azure 
+ using Microsoft Azure 
  </pre>
 
  
@@ -26,7 +40,6 @@ deploy using azure
 using swagger 
  </pre>
 
+
 #  `Review:`
- <pre>
- https://facemo.azurewebsites.net/swagger/index.html
- </pre>
+https://facemo.azurewebsites.net/swagger/index.html
