@@ -3,11 +3,10 @@
 #  `Backend:`
  <pre>
 • ASP.NET 6
-• Identiy 
+• Identity 
 • Linq & Entity Framework
 • JWT Refresh Token
 • Error Handling
-
 </pre>
 
 #  `Database:`
@@ -33,13 +32,11 @@
  <pre>
  using Microsoft Azure 
  </pre>
-
  
 #  `Document:`
  <pre>
 using swagger 
  </pre>
-
 
 #  `Review:`
 https://facemo.azurewebsites.net/swagger/index.html
