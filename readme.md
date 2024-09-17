@@ -3,6 +3,7 @@
 #  `Backend:`
  <pre>
 • ASP.NET 6
+• RestFull APIs
 • Identity 
 • Linq & Entity Framework
 • JWT Refresh Token
