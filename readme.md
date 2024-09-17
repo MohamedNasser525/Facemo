@@ -31,12 +31,12 @@
 
 #  `Deployment:`
  <pre>
- using Microsoft Azure 
- </pre>
+  • Using Microsoft Azure 
+</pre>
  
 #  `Document:`
  <pre>
-using swagger 
+ • Using Swagger 
  </pre>
 
 #  `Review:`
