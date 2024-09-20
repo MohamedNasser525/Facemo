@@ -16,7 +16,7 @@
 • RestFull APIs
 • SignalR
 • Identity 
-• Linq & Entity Framework
+• LINQ  & Entity Framework
 • JWT Refresh Token
 • Error Handling
 </pre>
