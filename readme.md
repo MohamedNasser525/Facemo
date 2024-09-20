@@ -13,7 +13,7 @@
 #  `Backend:`
  <pre>
 • ASP.NET 6
-• RestFull APIs
+• Restful APIs
 • SignalR
 • Identity 
 • LINQ & Entity Framework
