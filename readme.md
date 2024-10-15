@@ -18,7 +18,7 @@
 • Identity 
 • LINQ & Entity Framework
 • JWT Refresh Token
-• Error Handling
+• Error / exception Handling
 </pre>
 
 #  `Database:`
