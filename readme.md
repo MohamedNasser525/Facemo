@@ -47,8 +47,8 @@
  
 #  `Document:`
  <pre>
- • Using Swagger 
- </pre>
+  • Using Swagger 
+</pre>
 
 #  `Review:`
 https://facemo.azurewebsites.net/swagger/index.html
