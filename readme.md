@@ -5,8 +5,8 @@
   <h4>
      Facemo is a social media platform It allows users to create personal profiles, connect with friends, share posts
      , and interact with posts through comments and reactions, the project now allows you to chat
-     with your friends any time offline by Rest API and online by SignalR.
-     With highly efficient secure technology, that saves you and your data from any attacker.
+     with your friends any time offline through Rest API and online through SignalR.
+     Highly efficient secure technology saves you and your data from any attacker.
   </h4> 
 
  
@@ -18,7 +18,7 @@
 • Identity 
 • LINQ & Entity Framework
 • JWT Refresh Token
-• Error / exception Handling
+• Error/Exception Handling
 </pre>
 
 #  `Database:`
@@ -42,7 +42,7 @@
 
 #  `Deployment:`
  <pre>
-  • Using Microsoft Azure 
+  • Using Monsterasp 
 </pre>
  
 #  `Document:`
@@ -51,4 +51,4 @@
 </pre>
 
 #  `Review:`
-https://facemo.azurewebsites.net/swagger/index.html
+[Here](https://facemo.runasp.net/swagger/index.html)
